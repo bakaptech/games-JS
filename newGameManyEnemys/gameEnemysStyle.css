@@ -1,0 +1,17 @@
+body{
+    background: pink;
+    width:100vw;
+    height: 100vh;
+}
+#canvas6{
+    position:absolute;
+    border: 3px solid black;
+    width: 500px;
+    height: 800px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+img{
+    display: none;
+}
